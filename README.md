@@ -9,8 +9,8 @@ We had to find out and share the anlysis of the important driving factors(feaute
 
 please use the below commands to install the dependencies.
 
-pip install pandas
-pip install seaborn
+pip install pandas<br>
+pip install seaborn<br>
 pip install matplotlib
 
 
