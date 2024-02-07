@@ -5,12 +5,12 @@ This data contains features or columns which shows different characteristics of 
 We had to find out and share the anlysis of the important driving factors(feauters or variables) responsible for the Defaulted or Charged Off category of the loan.
 
 
-##installation
+## installation
 
 please use the below commands to install the dependencies.
 
-pip install pandas
-pip install seaborn
+pip install pandas<br>
+pip install seaborn<br>
 pip install matplotlib
 
 
